@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "info": "Discover interesting projects",
+    "done": false
+  },
+  {
+    "id": 1,
+    "info": "people to populate your personal news feed.",
+    "done": true
+  },
+  {
+    "id": 2,
+    "info": "GitHub is built for collaboration",
+    "done": false
+  },
+  {
+    "id": 3,
+    "info": "Set up an organization to improve",
+    "done": true
+  },
+  {
+    "id": 4,
+    "info": "the way your team works together",
+    "done": false
+  }
+]
